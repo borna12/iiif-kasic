@@ -1,0 +1,23 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 1, 2 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 2666,
+    "height" : 4554
+  }, {
+    "width" : 4000,
+    "height" : 6832
+  }, {
+    "width" : 8000,
+    "height" : 13664
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 8000,
+  "@id" : "https://retrogram.jezik.hr/gramatike/kasic/iiif/62",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 13664
+}
