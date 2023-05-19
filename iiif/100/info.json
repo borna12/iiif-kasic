@@ -1,0 +1,23 @@
+{
+    "tiles" : [ {
+      "scaleFactors" : [ 1, 2 ],
+      "width" : 1024,
+      "height" : 1024
+    } ],
+    "protocol" : "http://iiif.io/api/image",
+    "sizes" : [ {
+      "width" : 2666,
+      "height" : 4477
+    }, {
+      "width" : 4000,
+      "height" : 6716
+    }, {
+      "width" : 8000,
+      "height" : 13432
+    } ],
+    "profile" : "http://iiif.io/api/image/2/level0.json",
+    "width" : 8000,
+    "@id" : "https://borna12.github.io/iiif-kasic/iiif/100",
+    "@context" : "http://iiif.io/api/image/2/context.json",
+    "height" : 13432
+  }
