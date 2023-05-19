@@ -17,7 +17,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 8000,
-  "@id" : "https://retrogram.jezik.hr/gramatike/kasic/iiif/101",
+  "@id" : "https://borna12.github.io/iiif-kasic/iiif/101",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 13003
 }
